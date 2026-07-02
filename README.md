@@ -1,8 +1,12 @@
-# AdForge_AI
+AI Specialist Project Template
 
-Yeh ek AI-powered Ad Generator application hai. 
-Is project ka maqsad automatic tareeke se ads banana hai.
+Repository Structure
 
-## Features:
-- AI-based content generation.
-- Simple and easy to use.
+Brainstorming & Ideation
+Requirement Analysis
+Project Design Phase
+Project Planning Phase
+Project Development Phase
+Performance Testing
+Documentation & Demo
+Project Demonstration
